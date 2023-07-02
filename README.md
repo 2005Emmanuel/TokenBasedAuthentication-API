@@ -29,4 +29,4 @@ This is a TokenBased Authentication API that uses JWT as a means of Authenticati
 
 
 #  API url
-tokenbasedauthentication-api-production.up.railway.app/swagger-ui/index.html
+  tokenbasedauthentication-api-production.up.railway.app/swagger-ui/index.html
