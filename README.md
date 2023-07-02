@@ -8,7 +8,7 @@ This is a TokenBased Authentication API that uses JWT as a means of Authenticati
    1. clone the project by using the command
       below in your terminal
     
-       ```  git clone github.com/2005Emmanuel/Todo-API.git  ```
+       ```  https://github.com/2005Emmanuel/TokenBasedAuthentication-API.git ```
     
    2. Change directory into the cloned Repository
    
